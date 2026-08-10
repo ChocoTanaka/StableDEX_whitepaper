@@ -31,4 +31,4 @@ To address single-tick drain risks during oracle update lags, the protocol was s
 ---
 
 ## Whitepaper
-For the full theoretical background, formula derivations, and detailed simulation data, please refer to the [Stable DEX Whitepaper (PDF)]((https://github.com/ChocoTanaka/StableDEX_whitepaper/blob/main/Design%20of%20a%20Stablecoin%20DEX_Whitepaper.pdf)).
+For the full theoretical background, formula derivations, and detailed simulation data, please refer to the [Stable DEX Whitepaper (PDF)](https://github.com/ChocoTanaka/StableDEX_whitepaper/blob/main/Design%20of%20a%20Stablecoin%20DEX_Whitepaper.pdf).
